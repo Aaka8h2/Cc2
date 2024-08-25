@@ -4,7 +4,7 @@ Z = '\033[1;31m'
 G = '\033[1;32m'
 S = '\033[1;33m'
 
-nno = 'cc.txt'
+nno = 'gencc.txt'
 token = '7454585446:AAE7zE1rH0uXfflyeWWSUJ3MkQ0swGpZLeQ'
 ID = '5983253591'
 
